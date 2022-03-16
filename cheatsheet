@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+
+
+<head>
+    <title>Cheat Sheat Project</title>
+    <link href="./styles.css" type="text/css" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+
+<body>
+    <header>
+        <h1>HMTL Table Reference</h1>
+    </header>
+    <main>
+        <div>
+            <h2>Table tags</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Tag</th>
+                        <th>Name</th>
+                        <th>Description</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="code">&lt;table&gt;</td>
+                        <td>Table</td>
+                        <td>The wrapper element for all HTML tables</td>
+                    </tr>
+                    <tr>
+                        <td class="code">&lt;thead&gt;</td>
+                        <td>Table Head</td>
+                        <td>The set of rows defining the column headers in a table</td>
+                    </tr>
+                    <tr>
+                        <td class="code">&lt;tbody&gt;</td>
+                        <td>Table Body</td>
+                        <td>The set of rows containing actual table data</td>
+                    </tr>
+                    <tr>
+                        <td class="code">&lt;tr&gt;</td>
+                        <td>Table Row</td>
+                        <td>The table row container</td>
+                    </tr>
+                    <tr>
+                        <td class="code">&lt;td&gt;</td>
+                        <td>Table Data</td>
+                        <td>The table row container</td>
+                    </tr>
+                    <tr>
+                        <td class="code">&lt;tfoot&gt;</td>
+                        <td>Table Foot</td>
+                        <td>The set of rows defining the footer in a table</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+
+        <br>
+        <br>
+        <hr>
+
+
+        <div>
+            <h2>Table attributes</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Attribute</th>
+                        <th>Name</th>
+                        <th>Description</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="code">colspan</td>
+                        <td>Column Span</td>
+                        <td>Defines how many columns a td element should span</td>
+                    </tr>
+                    <tr>
+                        <td class="code">rowspan</td>
+                        <td>Row Span</td>
+                        <td>Defines how many rows a &lt;td&gt; element should span</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </main>
+
+
+    <br>
+    <br>
+    <br>
+    <hr>
+
+
+    <div>
+        <h2>CSS Tags Usage</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Property</th>
+                    <th>Description</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td class="code">background</td>
+                    <td>The wrapper element for all HTML tables</td>
+                </tr>
+                <tr>
+                    <td class="code">color</td>
+                    <td>change the color</td>
+                </tr>
+                <tr>
+                    <td class="code">padding</td>
+                    <td>Padding creates extra space within an element</td>
+                </tr>
+                <tr>
+                    <td class="code">margin</td>
+                    <td>The margin property sets the margins for an element</td>
+                </tr>
+                <tr>
+                    <td class="code">border-width</td>
+                    <td>Specifies the width of the border</td>
+                </tr>
+                <tr>
+                    <td class="code">animation</td>
+                    <td>binding animation to an element</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+    
+
+    <br>
+
+
+
+    <footer>
+        <h5>Created by Tomislav Kanazirev </h5>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/SNice.svg/220px-SNice.svg.png" width="100" ,
+            height="100" />
+    </footer>
+
+
+</body>
+</html>
