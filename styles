@@ -1,0 +1,58 @@
+h1,
+h2 {
+    color: rgb(16, 16, 9);
+    font-family: Helvetica;
+}
+
+
+table {
+    margin: 0 auto;
+    border-collapse: collapse;
+    width: 45%;
+}
+
+
+table,
+th,
+td {
+    border: 3px solid rgb(6, 5, 5);
+}
+
+
+th {
+    height: 50px;
+    text-align: center;
+    color: white;
+    background-color: rgb(17, 138, 230);
+    text-transform: uppercase;
+    font-family: Helvetica;
+    font-size: 20px;
+}
+
+
+th,
+td {
+    padding: 20px;
+    text-align: center;
+    color: black;
+}
+
+
+tr {
+    background-color: rgb(250, 250, 47);
+}
+
+
+.code {
+    font-family: "Lucida Console", monospace;
+    font-size: 20px;
+    color: black;
+}
+
+
+html,
+body {
+    width: 100%;
+    text-align: center;
+    background-color: white;
+}
